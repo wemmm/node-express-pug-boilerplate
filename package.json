@@ -1,5 +1,5 @@
 {
-  "name": "labyrinths",
+  "name": "boilerplate",
   "version": "1.0.0",
   "description": "```",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wemmm/labyrinths.git"
+    "url": "git+https://github.com/wemmm/node-express-pug-boilerplate"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wemmm/labyrinths/issues"
+    "url": "https://github.com/wemmm/node-express-pug-boilerplate/issues"
   },
-  "homepage": "https://github.com/wemmm/labyrinths#readme",
+  "homepage": "https://github.com/wemmm/node-express-pug-boilerplate/blob/master/README.md",
   "dependencies": {
     "express": "^4.15.4",
     "pug": "^2.0.0-rc.3"
